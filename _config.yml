@@ -183,6 +183,7 @@ exclude:
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - _pages/dropdown.md
   ####
   - bin/
   - CONTRIBUTING.md
