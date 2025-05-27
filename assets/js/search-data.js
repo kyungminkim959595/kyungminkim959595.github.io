@@ -20,7 +20,7 @@ ninja.data = [{
         
           title: "How Does Classifier-free Guidance Amplify the Societal Bias in Text-to-image Diffusion Models?",
         
-        description: "Literature review and empirical analyses on the bias amplification of CFG diffusion models",
+        description: "Literature review and empirical analyses on the bias amplification in CFG for diffusion models",
         section: "Posts",
         handler: () => {
           
