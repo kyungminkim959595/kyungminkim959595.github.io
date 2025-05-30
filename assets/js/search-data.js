@@ -24,6 +24,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2025/cfg-bias_backup/";
+          
+        },
+      },{id: "post-how-does-classifier-free-guidance-amplify-the-societal-bias-in-text-to-image-diffusion-models",
+        
+          title: "How Does Classifier-free Guidance Amplify the Societal Bias in Text-to-image Diffusion Models?",
+        
+        description: "Literature review and empirical analyses on the bias amplification in CFG for diffusion models",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2025/cfg-bias/";
           
         },
