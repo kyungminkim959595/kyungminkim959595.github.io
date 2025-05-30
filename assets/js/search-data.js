@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-how-does-classifier-free-guidance-amplify-the-societal-bias-in-text-to-image-diffusion-models",
+        },{id: "post-",
         
-          title: "How Does Classifier-free Guidance Amplify the Societal Bias in Text-to-image Diffusion Models?",
+          title: "",
         
-        description: "Literature review and empirical analyses on the bias amplification in CFG for diffusion models",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cfg-bias_backup/";
+            window.location.href = "/blog/2025/2025-05-27-cfg-bias/";
           
         },
       },{id: "post-how-does-classifier-free-guidance-amplify-the-societal-bias-in-text-to-image-diffusion-models",
@@ -35,7 +35,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cfg-bias/";
+            window.location.href = "/blog/2025/cfg-bias_backup/";
           
         },
       },{id: "books-the-godfather",
