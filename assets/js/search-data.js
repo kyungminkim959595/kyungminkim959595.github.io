@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
+        },{id: "post-how-does-classifier-free-guidance-amplify-the-societal-bias-in-text-to-image-diffusion-models",
         
-          title: "",
+          title: "How Does Classifier-free Guidance Amplify the Societal Bias in Text-to-image Diffusion Models?",
         
-        description: "",
+        description: "Classifier-Free Guidance (CFG) is a potential driver of bias amplification in text-to-image (T2I) diffusion models. We analyzed the magnitude and pattern of CFG-induced bias amplification.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-05-27-cfg-bias/";
+            window.location.href = "/blog/2025/cfg-bias/";
           
         },
       },{id: "books-the-godfather",
